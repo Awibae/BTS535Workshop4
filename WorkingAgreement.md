@@ -1,12 +1,12 @@
 # Working Agreement
 
 ### Preferred form of contact and overall availability
-	Microsoft Teams, GitHub Issues, Email
-	9:00AM-5:00PM Monday-Friday, Weekends if needed
+   - Microsoft Teams, GitHub Issues, Email
+   - 9:00AM-5:00PM Monday-Friday, Weekends if needed
 
 ### Meeting schedules
-	Daily Scrum - 10:00-10:15AM
-	24-hour notice is needed for scheduling meetings besides the daily scrum
+   - Daily Scrum - 10:00-10:15AM
+   - 24-hour notice is needed for scheduling meetings besides the daily scrum
 
 
 ### Coding practices to be adopted
@@ -38,5 +38,6 @@ Project backups:
 Accountability:
   - Team members must have a valid reason for missing a meeting.
   - Team members who miss meetings should proactively communicate with the rest of the team and find alternative ways to stay engaged or delegate responsibilities to ensure that project progress is not hindered.
+    
 Multiple Absences: 
   - If a team member is frequently missing team meetings, a meeting will be held with the team to decide if they will move forward with the absentee or if they will be let go.
