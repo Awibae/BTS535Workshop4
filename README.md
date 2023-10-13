@@ -1,4 +1,4 @@
-# BTS535Workshop4
+# BTS535 Workshop
 
 **Group 2**
 
